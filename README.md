@@ -1,1 +1,1 @@
-# potential-guide
+print("Hello");
